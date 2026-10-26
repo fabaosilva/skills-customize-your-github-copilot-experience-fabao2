@@ -65,6 +65,13 @@
       "description": "Create a book catalog REST API using FastAPI, Pydantic models, and CRUD operations.",
       "path": "assignments/building-rest-apis-fastapi",
       "dueDate": "2026-11-02"
+    },
+    {
+      "id": "automated-testing-fastapi-apis",
+      "title": "Automated Testing for FastAPI",
+      "description": "Write pytest and TestClient tests for FastAPI endpoints, CRUD behavior, and error handling.",
+      "path": "assignments/automated-testing-fastapi-apis",
+      "dueDate": "2026-11-02"
     }
   ]
 }
