@@ -1,11 +1,11 @@
 
 # 📘 Tarefa: Jogo da Forca
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Pratique strings, listas, loops, condicionais e entrada de dados criando um jogo da Forca. O jogador deverá descobrir uma palavra sorteada antes de esgotar as tentativas.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Implementar o Jogo da Forca
 
