@@ -9,6 +9,7 @@ handoffs:
     send: true
 ---
 
+
 # Assignment Brainstorming Assistant
 
 Ajude o professor a decidir a próxima assignment, analisando o currículo existente e sugerindo uma ideia focada.
